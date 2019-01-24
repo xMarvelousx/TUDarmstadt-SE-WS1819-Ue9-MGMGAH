@@ -5,6 +5,16 @@
  * For more details take a look at the Java Quickstart chapter in the Gradle
  * user guide available at https://docs.gradle.org/5.1.1/userguide/tutorial_java_projects.html
  */
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "gradle.plugin.com.github.spotbugs:spotbugs-gradle-plugin:1.6.9"
+  }
+}
 
 plugins {
     // Apply the java plugin to add support for Java
@@ -15,8 +25,10 @@ plugins {
 	
 	id 'checkstyle'
 	
-	id "com.github.spotbugs"
+	id "com.github.spotbugs" version "1.6.9"
 }
+
+apply plugin: "com.github.spotbugs"
 
 checkstyleMain {
     configFile = file("${rootDir}/checkstyle.xml")
