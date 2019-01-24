@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-01-24T17:17:00" hostname="DESKTOP-I156G9M" time="0.005">
+  <properties/>
+  <testcase name="testNotifications" classname="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" time="0.003"/>
+  <testcase name="testAddCard_RemoveCard_GetElementAt_GetSize" classname="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" time="0.0"/>
+  <testcase name="testUndoRedoOfAddCard" classname="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" time="0.0"/>
+  <testcase name="testAdd_RemoveListDataListener" classname="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" time="0.001"/>
+  <testcase name="testUndoRedoOfRemoveCard" classname="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" time="0.0"/>
+  <testcase name="testCreateInitialFlashcardSeries" classname="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

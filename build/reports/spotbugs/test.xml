@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.10" sequence="0" timestamp="1548350219368" analysisTimestamp="1548350219368" release="">
+  <Project projectName="">
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\CommandHistoryTest.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\DefaultFlashcardSeriesTest$1RecordingListDataListener.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\DefaultFlashcardSeriesTest$1TestListDataListener.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\DefaultFlashcardSeriesTest.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\FlashcardSeriesFilterTest$TestListDataListener.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\FlashcardSeriesFilterTest.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\learning\LearningStrategiesTest.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\learning\PermutationTest.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategyTest.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategyTest.class</Jar>
+    <AuxClasspathEntry>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\test</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\resources\main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\26.0-jre\6a806eff209f36f635f943e16d97491f00f6bfab\guava-26.0-jre.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\2.5.2\cea74543d5904a30861a61b4643a5f2bb372efc4\checker-qual-2.5.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.1.3\39b109f2cd352b2d71b52a3b5a1a9850e1dc304b\error_prone_annotations-2.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.1\976d8d30bebc251db406f2bdb3eb01962b5685b3\j2objc-annotations-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\org.codehaus.mojo\animal-sniffer-annotations\1.14\775b7e22fb10026eed3f86e8dc556dfafe35f2d5\animal-sniffer-annotations-1.14.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar</AuxClasspathEntry>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\CommandHistoryTest.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeriesTest.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilterTest.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\LearningStrategiesTest.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\PermutationTest.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategyTest.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategyTest.java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Thu, 24 Jan 2019 18:16:59 +0100" total_classes="10" referenced_classes="40" total_bugs="0" total_size="451" num_packages="2" java_version="1.8.0_191" vm_version="25.191-b12" cpu_seconds="3.14" clock_seconds="0.86" peak_mbytes="273.66" alloc_mbytes="455.50" gc_seconds="0.01">
+    <PackageStats package="de.tud.cs.se.flashcards.model" total_bugs="0" total_types="6" total_size="372">
+      <ClassStats class="de.tud.cs.se.flashcards.model.CommandHistoryTest" sourceFile="CommandHistoryTest.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest" sourceFile="DefaultFlashcardSeriesTest.java" interface="false" size="151" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest$1RecordingListDataListener" sourceFile="DefaultFlashcardSeriesTest.java" interface="false" size="16" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeriesTest$1TestListDataListener" sourceFile="DefaultFlashcardSeriesTest.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest" sourceFile="FlashcardSeriesFilterTest.java" interface="false" size="145" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest$TestListDataListener" sourceFile="FlashcardSeriesFilterTest.java" interface="false" size="16" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.se.flashcards.model.learning" total_bugs="0" total_types="4" total_size="79">
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.LearningStrategiesTest" sourceFile="LearningStrategiesTest.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.PermutationTest" sourceFile="PermutationTest.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomForeverLearningStrategyTest" sourceFile="RandomForeverLearningStrategyTest.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomLearningStrategyTest" sourceFile="RandomLearningStrategyTest.java" interface="false" size="32" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="385" invocations="394" avgMicrosecondsPerInvocation="977" maxMicrosecondsPerInvocation="2386" standardDeviationMicrosecondsPerInvocation="331"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="86" invocations="393" avgMicrosecondsPerInvocation="220" maxMicrosecondsPerInvocation="13283" standardDeviationMicrosecondsPerInvocation="739"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="17" invocations="360" avgMicrosecondsPerInvocation="49" maxMicrosecondsPerInvocation="1385" standardDeviationMicrosecondsPerInvocation="98"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="14" invocations="35" avgMicrosecondsPerInvocation="415" maxMicrosecondsPerInvocation="3338" standardDeviationMicrosecondsPerInvocation="707"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="14" invocations="38" avgMicrosecondsPerInvocation="378" maxMicrosecondsPerInvocation="3288" standardDeviationMicrosecondsPerInvocation="635"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="13" invocations="35" avgMicrosecondsPerInvocation="378" maxMicrosecondsPerInvocation="2241" standardDeviationMicrosecondsPerInvocation="540"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="13" invocations="40" avgMicrosecondsPerInvocation="327" maxMicrosecondsPerInvocation="3240" standardDeviationMicrosecondsPerInvocation="637"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="12" invocations="38" avgMicrosecondsPerInvocation="341" maxMicrosecondsPerInvocation="1895" standardDeviationMicrosecondsPerInvocation="440"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

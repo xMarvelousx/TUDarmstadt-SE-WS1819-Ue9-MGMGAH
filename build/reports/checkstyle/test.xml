@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\CommandHistoryTest.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeriesTest.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilterTest.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\LearningStrategiesTest.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\PermutationTest.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategyTest.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\test\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategyTest.java">
+</file>
+</checkstyle>

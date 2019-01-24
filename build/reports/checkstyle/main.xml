@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.12">
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\MacOSXIntegration.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\Main.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\Command.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\CommandHistory.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\Flashcard.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\FlashcardObserver.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeries.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategies.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\Permutation.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\persistence\Store.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardEditor.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardsEditor.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\LearnDialog.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\Utilities.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\st\constraints\NotNull.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\st\constraints\Null.java">
+</file>
+<file name="D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\util\Arrays.java">
+</file>
+</checkstyle>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.10" sequence="0" timestamp="1548350219331" analysisTimestamp="1548350219331" release="">
+  <Project projectName="">
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\MacOSXIntegration.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\Main.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\Command.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistory.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$2.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries$3.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\Flashcard.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardObserver.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeries.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategies.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\Permutation.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$2.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$3.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries$4.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\persistence\Store.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor$2.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardEditor.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$2.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$3.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$4.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$5.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$6.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor$7.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\FlashcardsEditor.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$1.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$2.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$3.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog$State.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\LearnDialog.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\se\flashcards\ui\Utilities.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\st\constraints\NotNull.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\st\constraints\Null.class</Jar>
+    <Jar>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main\de\tud\cs\util\Arrays.class</Jar>
+    <AuxClasspathEntry>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\classes\java\main</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\build\resources\main</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\26.0-jre\6a806eff209f36f635f943e16d97491f00f6bfab\guava-26.0-jre.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\org.checkerframework\checker-qual\2.5.2\cea74543d5904a30861a61b4643a5f2bb372efc4\checker-qual-2.5.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.errorprone\error_prone_annotations\2.1.3\39b109f2cd352b2d71b52a3b5a1a9850e1dc304b\error_prone_annotations-2.1.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\com.google.j2objc\j2objc-annotations\1.1\976d8d30bebc251db406f2bdb3eb01962b5685b3\j2objc-annotations-1.1.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Users\Marius\.gradle\caches\modules-2\files-2.1\org.codehaus.mojo\animal-sniffer-annotations\1.14\775b7e22fb10026eed3f86e8dc556dfafe35f2d5\animal-sniffer-annotations-1.14.jar</AuxClasspathEntry>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\MacOSXIntegration.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\Main.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\AbstractFlashcardSeries.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\Command.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\CommandHistory.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\CommandHistoryChangedListener.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\DefaultFlashcardSeries.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\Flashcard.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\FlashcardObserver.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeries.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\FlashcardSeriesFilter.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\JustNewLearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategies.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\LearningStrategyInfo.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\NewestFirstLearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\OldestFirstLearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\Permutation.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\QuizLearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomForeverLearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\RandomLearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\learning\SystematicLearningStrategy.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\model\SortedFlashcardSeries.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\persistence\Store.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardEditor.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardListCellRenderer.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\FlashcardsEditor.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\LearnDialog.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\se\flashcards\ui\Utilities.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\st\constraints\NotNull.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\st\constraints\Null.java</SrcDir>
+    <SrcDir>D:\Marius Dokumente\Github\TUDarmstadt-SE-WS1819-Ue9-MGMGAH\src\main\java\de\tud\cs\util\Arrays.java</SrcDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Thu, 24 Jan 2019 18:16:59 +0100" total_classes="61" referenced_classes="416" total_bugs="0" total_size="1881" num_packages="7" java_version="1.8.0_191" vm_version="25.191-b12" cpu_seconds="10.33" clock_seconds="2.64" peak_mbytes="289.52" alloc_mbytes="455.50" gc_seconds="0.07">
+    <PackageStats package="de.tud.cs.se.flashcards" total_bugs="0" total_types="2" total_size="75">
+      <ClassStats class="de.tud.cs.se.flashcards.MacOSXIntegration" sourceFile="MacOSXIntegration.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.Main" sourceFile="Main.java" interface="false" size="37" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.se.flashcards.model" total_bugs="0" total_types="19" total_size="619">
+      <ClassStats class="de.tud.cs.se.flashcards.model.AbstractFlashcardSeries" sourceFile="AbstractFlashcardSeries.java" interface="false" size="43" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.Command" sourceFile="Command.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.CommandHistory" sourceFile="CommandHistory.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.CommandHistoryChangedListener" sourceFile="CommandHistoryChangedListener.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeries" sourceFile="DefaultFlashcardSeries.java" interface="false" size="47" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeries$1" sourceFile="DefaultFlashcardSeries.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeries$2" sourceFile="DefaultFlashcardSeries.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.DefaultFlashcardSeries$3" sourceFile="DefaultFlashcardSeries.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.Flashcard" sourceFile="Flashcard.java" interface="false" size="99" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.Flashcard$1" sourceFile="Flashcard.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardObserver" sourceFile="FlashcardObserver.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardSeries" sourceFile="FlashcardSeries.java" interface="true" size="12" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardSeriesFilter" sourceFile="FlashcardSeriesFilter.java" interface="false" size="71" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.FlashcardSeriesFilter$1" sourceFile="FlashcardSeriesFilter.java" interface="false" size="71" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.SortedFlashcardSeries" sourceFile="SortedFlashcardSeries.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.SortedFlashcardSeries$1" sourceFile="SortedFlashcardSeries.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.SortedFlashcardSeries$2" sourceFile="SortedFlashcardSeries.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.SortedFlashcardSeries$3" sourceFile="SortedFlashcardSeries.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.SortedFlashcardSeries$4" sourceFile="SortedFlashcardSeries.java" interface="false" size="57" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.se.flashcards.model.learning" total_bugs="0" total_types="18" total_size="300">
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.JustNewLearningStrategy" sourceFile="JustNewLearningStrategy.java" interface="false" size="26" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.JustNewLearningStrategy$1" sourceFile="JustNewLearningStrategy.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.LearningStrategies" sourceFile="LearningStrategies.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.LearningStrategy" sourceFile="LearningStrategy.java" interface="true" size="4" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.LearningStrategyInfo" sourceFile="LearningStrategyInfo.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.NewestFirstLearningStrategy" sourceFile="NewestFirstLearningStrategy.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.NewestFirstLearningStrategy$1" sourceFile="NewestFirstLearningStrategy.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.OldestFirstLearningStrategy" sourceFile="OldestFirstLearningStrategy.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.OldestFirstLearningStrategy$1" sourceFile="OldestFirstLearningStrategy.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.Permutation" sourceFile="Permutation.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.QuizLearningStrategy" sourceFile="QuizLearningStrategy.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.QuizLearningStrategy$1" sourceFile="QuizLearningStrategy.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomForeverLearningStrategy" sourceFile="RandomForeverLearningStrategy.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomForeverLearningStrategy$1" sourceFile="RandomForeverLearningStrategy.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomLearningStrategy" sourceFile="RandomLearningStrategy.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.RandomLearningStrategy$1" sourceFile="RandomLearningStrategy.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.SystematicLearningStrategy" sourceFile="SystematicLearningStrategy.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.model.learning.SystematicLearningStrategy$1" sourceFile="SystematicLearningStrategy.java" interface="false" size="7" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.se.flashcards.persistence" total_bugs="0" total_types="1" total_size="25">
+      <ClassStats class="de.tud.cs.se.flashcards.persistence.Store" sourceFile="Store.java" interface="false" size="25" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.se.flashcards.ui" total_bugs="0" total_types="18" total_size="766">
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardEditor" sourceFile="FlashcardEditor.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardEditor$1" sourceFile="FlashcardEditor.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardEditor$2" sourceFile="FlashcardEditor.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardListCellRenderer" sourceFile="FlashcardListCellRenderer.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor" sourceFile="FlashcardsEditor.java" interface="false" size="380" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor$1" sourceFile="FlashcardsEditor.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor$2" sourceFile="FlashcardsEditor.java" interface="false" size="13" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor$3" sourceFile="FlashcardsEditor.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor$4" sourceFile="FlashcardsEditor.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor$5" sourceFile="FlashcardsEditor.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor$6" sourceFile="FlashcardsEditor.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.FlashcardsEditor$7" sourceFile="FlashcardsEditor.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.LearnDialog" sourceFile="LearnDialog.java" interface="false" size="140" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.LearnDialog$1" sourceFile="LearnDialog.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.LearnDialog$2" sourceFile="LearnDialog.java" interface="false" size="14" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.LearnDialog$3" sourceFile="LearnDialog.java" interface="false" size="4" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.LearnDialog$State" sourceFile="LearnDialog.java" interface="false" size="11" bugs="0"/>
+      <ClassStats class="de.tud.cs.se.flashcards.ui.Utilities" sourceFile="Utilities.java" interface="false" size="22" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.st.constraints" total_bugs="0" total_types="2" total_size="2">
+      <ClassStats class="de.tud.cs.st.constraints.NotNull" sourceFile="NotNull.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="de.tud.cs.st.constraints.Null" sourceFile="Null.java" interface="true" size="1" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="de.tud.cs.util" total_bugs="0" total_types="1" total_size="94">
+      <ClassStats class="de.tud.cs.util.Arrays" sourceFile="Arrays.java" interface="false" size="94" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="1051" invocations="1843" avgMicrosecondsPerInvocation="570" maxMicrosecondsPerInvocation="4512" standardDeviationMicrosecondsPerInvocation="228"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="279" invocations="1837" avgMicrosecondsPerInvocation="152" maxMicrosecondsPerInvocation="7365" standardDeviationMicrosecondsPerInvocation="406"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="162" invocations="416" avgMicrosecondsPerInvocation="390" maxMicrosecondsPerInvocation="26139" standardDeviationMicrosecondsPerInvocation="1475"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="134" invocations="416" avgMicrosecondsPerInvocation="322" maxMicrosecondsPerInvocation="4412" standardDeviationMicrosecondsPerInvocation="607"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="75" invocations="1107" avgMicrosecondsPerInvocation="68" maxMicrosecondsPerInvocation="1176" standardDeviationMicrosecondsPerInvocation="87"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="44" invocations="1783" avgMicrosecondsPerInvocation="24" maxMicrosecondsPerInvocation="1113" standardDeviationMicrosecondsPerInvocation="53"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="37" invocations="416" avgMicrosecondsPerInvocation="89" maxMicrosecondsPerInvocation="1732" standardDeviationMicrosecondsPerInvocation="165"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="35" invocations="319" avgMicrosecondsPerInvocation="112" maxMicrosecondsPerInvocation="2190" standardDeviationMicrosecondsPerInvocation="226"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="34" invocations="328" avgMicrosecondsPerInvocation="105" maxMicrosecondsPerInvocation="1396" standardDeviationMicrosecondsPerInvocation="184"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="33" invocations="345" avgMicrosecondsPerInvocation="96" maxMicrosecondsPerInvocation="1128" standardDeviationMicrosecondsPerInvocation="160"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>

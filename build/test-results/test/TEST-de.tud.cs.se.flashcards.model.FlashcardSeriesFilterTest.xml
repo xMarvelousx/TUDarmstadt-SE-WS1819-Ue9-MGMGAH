@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-01-24T17:17:00" hostname="DESKTOP-I156G9M" time="0.003">
+  <properties/>
+  <testcase name="testConstruction" classname="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest" time="0.001"/>
+  <testcase name="testCardManagement" classname="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest" time="0.001"/>
+  <testcase name="testFilteringAndEventHandling" classname="de.tud.cs.se.flashcards.model.FlashcardSeriesFilterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
